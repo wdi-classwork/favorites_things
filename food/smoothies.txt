@@ -1,2 +1,4 @@
 Banana
 Pineapple
+Strawberry
+Mango
