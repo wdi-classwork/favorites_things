@@ -4,3 +4,5 @@ Strawberry
 Mango
 Peach
 Blueberry
+Melon
+Watermelon
